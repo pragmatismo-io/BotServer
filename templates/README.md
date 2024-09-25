@@ -10,3 +10,4 @@
 | **LLM Tools**         | Custom Integration with Data Sources    | Real-Time Data Access                   | Custom Logic for LLM Integration      | Integration with Legacy Systems      |
 | **Talk to Data**      | SQL Interaction and Chart Generation    | Natural Language Queries                | Chart Generation                      | Business Intelligence Dashboards      |
 
+[See more on pragmatismo.cloud](https://pragmatismo.cloud/general-bots)
